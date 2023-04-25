@@ -22,4 +22,4 @@ python main.py
 
 ---
 
-**To test run the bot, please visit [replit.com/@rasspy/SpotifySearcher](https://replit.com/@rasspy/SpotifySearcher?v=1)**
+**To test run, please visit [replit.com/@rasspy/SpotifySearcher](https://replit.com/@rasspy/SpotifySearcher?v=1)**
